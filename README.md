@@ -1,7 +1,11 @@
+# 💻 Matheus Machado
+### Software Developer | Computer Science Student
+
+---
 <div align="center">
 
   <h1>Hey 👋 I am Matheus Machado</h1>
-  <h3>Software Developer & Computer Science student</h3>
+
 
   <br />
 
