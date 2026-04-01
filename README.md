@@ -39,9 +39,9 @@
   <hr />
   <br />
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mths-machado&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mths-machado&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</p>
 
   <br />
 
