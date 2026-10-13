@@ -1,55 +1,142 @@
 # 💻 Matheus Machado
-### Software Developer | Computer Science Student
+
+**`Desenvolvedor FullStack`**
+
+Estudante de Ciência da Computação na PUC-GO e desenvolvedor full stack focado em backend.
+
+Crio APIs e gosto de resolver problemas de lógica no código. Trabalho principalmente com **Java (Spring)**, **C**, **Python**, **JavaScript** e **TypeScript**, além de construir interfaces com **React**, **Next.js**, **HTML** e **CSS**, utilizando **Git** no dia a dia.
+
+Sempre trabalhando em algum projeto pessoal ou aprendendo uma ferramenta nova.
 
 ---
-<div align="center">
 
-  <h1>Hey 👋 I am Matheus Machado</h1>
+### 🤖 Linguagens e Tecnologias
 
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Spring" 
+    title="Spring"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
 
-  <br />
+<div style="clear: both;"></div>
 
-  <p align="center">
-    Me chamo Matheus Machado, tenho 19 anos e sou natural de Goiás. Atualmente, estou cursando Ciência da Computação na PUC-GO, focando em desenvolvimento de software e tecnologias back-end. Sou apaixonado por resolver problemas através do código e estou sempre em busca de novos desafios.
-  </p>
+<br/>
 
-  <br />
+### 📊 Estatísticas
 
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,c,spring,mysql,postgres,py" />
-  </p>
-
-  <br />
-  <hr /> <br />
-
-  <h2>Contact me</h2>
-  <p align="center">
-    <a href="https://www.linkedin.com/in/mths-dev/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" />
-    </a>
-    <a href="https://x.com/Mths__dev" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="30" />
-    </a>
-    <a href="mailto:matmach2000@gmail.com">
-      <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30" />
-    </a>
-  </p>
-
-  <br />
-  <hr />
-  <br />
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mths-machado&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=mths-machado&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mths-machado&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 </p>
 
-  <br />
+<!-- Limpa a flutuação dos cards acima -->
+<div style="clear: both;"></div>
+<br/>
 
-  <h3>My Contributions</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mths-machado/mths-machado/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mths-machado/mths-machado/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mths-machado/mths-machado/output/github-contribution-grid-snake.svg">
-  </picture>
+### 📫 *Conecte-se Comigo*
 
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mths-dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" style="margin-right: 10px;" />
+  </a>
+  <a href="mailto:matmach2000@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email" style="margin-right: 10px;" />
+  </a>
+    <a href="https://x.com/Mths__dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="X" style="margin-right: 10px;" />
+  </a>
+</p>
