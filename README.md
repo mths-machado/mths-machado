@@ -107,36 +107,20 @@ Sempre trabalhando em algum projeto pessoal ou aprendendo uma ferramenta nova.
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=mths-machado&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mths-machado&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+| | |
+|:---:|:---:|
+| <img height="200" src="https://github-readme-stats.vercel.app/api?username=mths-machado&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" /> | <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mths-machado&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Tecnologias" /> |
 
-<!-- Limpa a flutuação dos cards acima -->
-<div style="clear: both;"></div>
-<br/>
+---
 
-### 📫 *Conecte-se Comigo*
+### 📫 Conecte-se comigo
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mths-dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" style="margin-right: 10px;" />
-  </a>
-  <a href="mailto:matmach2000@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email" style="margin-right: 10px;" />
-  </a>
-    <a href="https://x.com/Mths__dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="X" style="margin-right: 10px;" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/mths-dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
+</a>
+<a href="mailto:matmach2000@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email" />
+</a>
+<a href="https://x.com/Mths__dev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="X" />
+</a>
